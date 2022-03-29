@@ -3,6 +3,9 @@
 
 Creative bakery is landing for the advertising and current company brand promotion 
 
+Implemented according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab-(FE)?node-id=11342%3A1117)
+
+
 ### Technologies
 - HTML5
 - SCSS
