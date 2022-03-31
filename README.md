@@ -10,6 +10,7 @@ Implemented according to [Figma design](https://www.figma.com/file/dY3izAm0Vspsm
 - HTML5
 - SCSS
 - BEM
+- Adaptive layout
 
 ### Dependencies
 * Node v14.18.2 and higher
